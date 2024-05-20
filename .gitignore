@@ -7,7 +7,7 @@ checkpoints
 checkpoints_v2
 trash
 examples*
-.env
+.*
 build
 *.egg-info/
 *.zip
